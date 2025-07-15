@@ -1,0 +1,10 @@
+C:\ОП лаби\World\bin\Debug\World.exe.config
+C:\ОП лаби\World\bin\Debug\World.exe
+C:\ОП лаби\World\bin\Debug\World.pdb
+C:\ОП лаби\World\obj\Debug\World.csproj.AssemblyReference.cache
+C:\ОП лаби\World\obj\Debug\World.Form1.resources
+C:\ОП лаби\World\obj\Debug\World.Properties.Resources.resources
+C:\ОП лаби\World\obj\Debug\World.csproj.GenerateResource.cache
+C:\ОП лаби\World\obj\Debug\World.csproj.CoreCompileInputs.cache
+C:\ОП лаби\World\obj\Debug\World.exe
+C:\ОП лаби\World\obj\Debug\World.pdb
